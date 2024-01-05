@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kA5d3LnxFO1kqMYAd9Fd+zKm2FYVY/okAV4VEOMf2k4=",
+  "Source": "webAPINextJS.Api",
+  "BasePath": "_content/webAPINextJS.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webAPINextJS.Api", "webAPINextJS.Api\webAPINextJS.Api.csproj", "{4613B123-A3F6-4337-A362-C9D12C897EE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webAPINextJs.Tests", "webAPINextJs.Tests\webAPINextJs.Tests.csproj", "{0E70E4C9-FE3B-47DD-88A3-036A9B44AE11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4613B123-A3F6-4337-A362-C9D12C897EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4613B123-A3F6-4337-A362-C9D12C897EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4613B123-A3F6-4337-A362-C9D12C897EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4613B123-A3F6-4337-A362-C9D12C897EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E70E4C9-FE3B-47DD-88A3-036A9B44AE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E70E4C9-FE3B-47DD-88A3-036A9B44AE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E70E4C9-FE3B-47DD-88A3-036A9B44AE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E70E4C9-FE3B-47DD-88A3-036A9B44AE11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
