@@ -3,7 +3,7 @@ import Link from 'next/link';
 export default function FirstPost() {
 	const handleRequest = () => {
 		const apiFetch = async () => {
-			const data = await fetch('http://localhost:5065/WeatherForecast', {
+			const data = await fetch('http://localhost:5065/Books', {
 				method: 'GET',
 				headers: { 'Content-Type': 'application/json' },
 				// body: JSON.stringify({ newWords: newWords }),
