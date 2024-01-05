@@ -32,7 +32,7 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-var port = Environment.GetEnvironmentVariable("PORT") ?? "5065"; // CHANGE THE “8080" TO THE PORT YOUR BACKEND RUNS ON!
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5065";
 var url = $"http://0.0.0.0:{port}";
 
-app.Run();
+app.Run(url);
