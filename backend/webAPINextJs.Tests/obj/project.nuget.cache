@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bRijEEs8vL6AJbkqmRMpyoEdCOm5USVZohyPuQ5LwihLrMkvYLDD0FWvfnxUzzP1iqibne5kKBT3vzXQyhpb7Q==",
+  "dgSpecHash": "nvI9AClaC5LeXGTB150htirmFNvXI6+5TYuiAlAuVDhEx0HS0N7Fb6hsyLr7DQZYTTmU2CWSN+l1xe0A7IqZRA==",
   "success": true,
-  "projectFilePath": "/Users/salt-dev/labs/week8/nextJS-lab/nextjs-blog/backend/webAPINextJs.Tests/webAPINextJs.Tests.csproj",
+  "projectFilePath": "/Users/salt-dev/labs/week8/nextJS-lab/silvia-nextJS-BookKeeper/nextjs-blog/backend/webAPINextJs.Tests/webAPINextJs.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/salt-dev/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
     "/Users/salt-dev/.nuget/packages/fluentassertions/6.12.0/fluentassertions.6.12.0.nupkg.sha512",

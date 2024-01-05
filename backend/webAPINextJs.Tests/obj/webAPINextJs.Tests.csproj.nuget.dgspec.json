@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/salt-dev/labs/week8/nextJS-lab/nextjs-blog/backend/webAPINextJs.Tests/webAPINextJs.Tests.csproj": {}
+    "/Users/salt-dev/labs/week8/nextJS-lab/silvia-nextJS-BookKeeper/nextjs-blog/backend/webAPINextJs.Tests/webAPINextJs.Tests.csproj": {}
   },
   "projects": {
-    "/Users/salt-dev/labs/week8/nextJS-lab/nextjs-blog/backend/webAPINextJS.Api/webAPINextJS.Api.csproj": {
+    "/Users/salt-dev/labs/week8/nextJS-lab/silvia-nextJS-BookKeeper/nextjs-blog/backend/webAPINextJS.Api/webAPINextJS.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/salt-dev/labs/week8/nextJS-lab/nextjs-blog/backend/webAPINextJS.Api/webAPINextJS.Api.csproj",
+        "projectUniqueName": "/Users/salt-dev/labs/week8/nextJS-lab/silvia-nextJS-BookKeeper/nextjs-blog/backend/webAPINextJS.Api/webAPINextJS.Api.csproj",
         "projectName": "webAPINextJS.Api",
-        "projectPath": "/Users/salt-dev/labs/week8/nextJS-lab/nextjs-blog/backend/webAPINextJS.Api/webAPINextJS.Api.csproj",
+        "projectPath": "/Users/salt-dev/labs/week8/nextJS-lab/silvia-nextJS-BookKeeper/nextjs-blog/backend/webAPINextJS.Api/webAPINextJS.Api.csproj",
         "packagesPath": "/Users/salt-dev/.nuget/packages/",
-        "outputPath": "/Users/salt-dev/labs/week8/nextJS-lab/nextjs-blog/backend/webAPINextJS.Api/obj/",
+        "outputPath": "/Users/salt-dev/labs/week8/nextJS-lab/silvia-nextJS-BookKeeper/nextjs-blog/backend/webAPINextJS.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/salt-dev/.nuget/NuGet/NuGet.Config"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "/Users/salt-dev/labs/week8/nextJS-lab/nextjs-blog/backend/webAPINextJs.Tests/webAPINextJs.Tests.csproj": {
+    "/Users/salt-dev/labs/week8/nextJS-lab/silvia-nextJS-BookKeeper/nextjs-blog/backend/webAPINextJs.Tests/webAPINextJs.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/salt-dev/labs/week8/nextJS-lab/nextjs-blog/backend/webAPINextJs.Tests/webAPINextJs.Tests.csproj",
+        "projectUniqueName": "/Users/salt-dev/labs/week8/nextJS-lab/silvia-nextJS-BookKeeper/nextjs-blog/backend/webAPINextJs.Tests/webAPINextJs.Tests.csproj",
         "projectName": "webAPINextJs.Tests",
-        "projectPath": "/Users/salt-dev/labs/week8/nextJS-lab/nextjs-blog/backend/webAPINextJs.Tests/webAPINextJs.Tests.csproj",
+        "projectPath": "/Users/salt-dev/labs/week8/nextJS-lab/silvia-nextJS-BookKeeper/nextjs-blog/backend/webAPINextJs.Tests/webAPINextJs.Tests.csproj",
         "packagesPath": "/Users/salt-dev/.nuget/packages/",
-        "outputPath": "/Users/salt-dev/labs/week8/nextJS-lab/nextjs-blog/backend/webAPINextJs.Tests/obj/",
+        "outputPath": "/Users/salt-dev/labs/week8/nextJS-lab/silvia-nextJS-BookKeeper/nextjs-blog/backend/webAPINextJs.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/salt-dev/.nuget/NuGet/NuGet.Config"
@@ -92,8 +92,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/salt-dev/labs/week8/nextJS-lab/nextjs-blog/backend/webAPINextJS.Api/webAPINextJS.Api.csproj": {
-                "projectPath": "/Users/salt-dev/labs/week8/nextJS-lab/nextjs-blog/backend/webAPINextJS.Api/webAPINextJS.Api.csproj"
+              "/Users/salt-dev/labs/week8/nextJS-lab/silvia-nextJS-BookKeeper/nextjs-blog/backend/webAPINextJS.Api/webAPINextJS.Api.csproj": {
+                "projectPath": "/Users/salt-dev/labs/week8/nextJS-lab/silvia-nextJS-BookKeeper/nextjs-blog/backend/webAPINextJS.Api/webAPINextJS.Api.csproj"
               }
             }
           }

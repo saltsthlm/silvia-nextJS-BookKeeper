@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = webAPINextJs.Tests
-build_property.ProjectDir = /Users/salt-dev/labs/week8/nextJS-lab/nextjs-blog/backend/webAPINextJs.Tests/
+build_property.ProjectDir = /Users/salt-dev/labs/week8/nextJS-lab/silvia-nextJS-BookKeeper/nextjs-blog/backend/webAPINextJs.Tests/

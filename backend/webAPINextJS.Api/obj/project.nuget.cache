@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "COCgl2lNIUmooLBVD7xC7mEpoMXCWeMUvdHRdiSaGuMrn7+l660cTCT4izWGQb2odPpgkUsShYgB9ZJ/tF3ghg==",
+  "dgSpecHash": "9GluseDulwgklS2fRRDPDiDCz55sjkbzakIByP1gK5mBsc84EAVUR51FjxJhQjfAp50KPUybrJ5v+Dd7M2GZpQ==",
   "success": true,
-  "projectFilePath": "/Users/salt-dev/labs/week8/nextJS-lab/nextjs-blog/backend/webAPINextJS.Api/webAPINextJS.Api.csproj",
+  "projectFilePath": "/Users/salt-dev/labs/week8/nextJS-lab/silvia-nextJS-BookKeeper/nextjs-blog/backend/webAPINextJS.Api/webAPINextJS.Api.csproj",
   "expectedPackageFiles": [
     "/Users/salt-dev/.nuget/packages/microsoft.aspnetcore.openapi/7.0.13/microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
     "/Users/salt-dev/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
